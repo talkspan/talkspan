@@ -10,3 +10,4 @@
 * SolidWorks
 * Keyshot
 * Figma
+* Abaqus CAE
