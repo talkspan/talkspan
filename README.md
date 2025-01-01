@@ -12,3 +12,5 @@
 * Figma
 * Abaqus CAE
 * Blender
+
+Feel free to contact me about any questions you may have
