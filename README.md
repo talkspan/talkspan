@@ -13,4 +13,8 @@
 * Abaqus CAE
 * Blender
 
+### Domains I am somewhat proficient in:
+* Raspberry Pi 5, 4b and Zero W 1.1
+* Arduino Uno, Nano and the large one
+* ESP 32
 Feel free to contact me about any questions you may have
