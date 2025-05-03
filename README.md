@@ -19,6 +19,3 @@
 * ESP 32
 
 # Feel free to contact me about any questions you may have
-# Specs of Current Workstation: 
-* Intel Xeon E5-2637 v3
-* NVidia GTX Titan X 12GB
