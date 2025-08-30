@@ -1,4 +1,3 @@
-# a
-### learning stuff
+# hi there
 ### enjoy
 ### https://leonardcheung.com ###
